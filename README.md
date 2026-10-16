@@ -5,7 +5,7 @@ Site que recomenda o LLM ideal pro trabalho que a pessoa quer fazer. Descreve a 
 ## como rodar
 
 ```bash
-export OPENROUTER_API_KEY="sk-or-v1-..."
+export OPENROUTER_API_KEY="sk-or-v1-seu-token-aqui"
 python server.py            # sobe em http://127.0.0.1:8765
 ```
 
