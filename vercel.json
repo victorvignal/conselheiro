@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "PYTHON_VERSION": "3.13"
+    }
+  },
+  "routes": [
+    { "src": "/(.*)", "dest": "/api/index.py" }
+  ]
+}

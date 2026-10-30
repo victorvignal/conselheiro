@@ -1,0 +1,6 @@
+[project]
+name = "conselheiro"
+version = "0.1.0"
+description = "Recomenda o LLM ideal pro trabalho que a pessoa quer fazer"
+requires-python = ">=3.13"
+dependencies = []
